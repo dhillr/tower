@@ -7,10 +7,4 @@
         "initializer_list": "cpp",
         "new": "cpp"
     },
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": true,
-        "markdown": false,
-        "scminput": false
-    }
 }
